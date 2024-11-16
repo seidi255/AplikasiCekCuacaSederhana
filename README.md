@@ -1,7 +1,7 @@
 # AplikasiCekCuacaSederhana
  Tugas 6- SEIDI RAHMAT
 
-Aplikasi Cek Cuaca Sederhanaの説明 (Penjelasan Aplikasi Cek Cuaca Sederhana)
+Aplikasi Cek Cuaca Sederhana (Penjelasan Aplikasi Cek Cuaca Sederhana)
 Inilah penjelasan mengenai aplikasi cek cuaca sederhana:
 
 Antarmuka Pengguna (GUI)
